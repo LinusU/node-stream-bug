@@ -1,4 +1,4 @@
-Repository with code for [Node.js bug #25823](https://github.com/joyent/node/issues/25823)
+Repository with code for [Node.js bug #25823](https://github.com/joyent/node/issues/25823) and [iojs bug #2323](https://github.com/nodejs/io.js/issues/2323).
 
 -----
 
